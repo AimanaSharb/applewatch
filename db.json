@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 13 Pro",
+      "price": 1000,
+      "memory": 256,
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/IPhone%2013/Pro/4-500x500.jpg",
+      "category": "Iphones's"
+    },
+    {
+      "id": 2,
+      "title": "Iphone 13 ",
+      "price": 800,
+      "memory": 128,
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/IPhone%2013/mini/2-500x500.jpg",
+      "category": "Iphones's"
+    },
+    {
+      "id": 4,
+      "title": "Iphone 12 Pro",
+      "price": 700,
+      "memory": 256,
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/iPhone%2012%20Pro/1-500x500.jpg",
+      "category": "Iphone's"
+    },
+    {
+      "title": "apple watch",
+      "price": "300",
+      "memory": "16",
+      "image": "https://www.istore.kg/media/products/7-41-Nike-Starlight-GPS.webp",
+      "category": "Watches",
+      "id": 6
+    },
+    {
+      "title": "apple watch",
+      "price": "350",
+      "memory": "32",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_911_602_0_1.jpg",
+      "category": "Watches",
+      "id": 7
+    },
+    {
+      "title": "Apple power bank",
+      "price": "100",
+      "memory": "0",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJWY3?wid=532&hei=582&fmt=png-alpha&.v=1625613219000",
+      "category": "Accessories",
+      "id": 8
+    },
+    {
+      "title": "apple case",
+      "price": "50",
+      "memory": "0",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPtjJyU50L73x9hXZ1K6tqq25-EA1fDjBIsA&usqp=CAU",
+      "category": "Accessories",
+      "id": 9
+    },
+    {
+      "title": "apple watch ",
+      "price": "200",
+      "memory": "16",
+      "image": "https://techinworld.net/ru/%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%B1%D1%83%D0%B4%D0%B5%D1%82-%D1%81%D1%82%D0%BE%D0%B8%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-iphone-14-%D0%BE%D1%82-apple/",
+      "category": "Watches",
+      "id": 10
+    }
+  ]
+}
